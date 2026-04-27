@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="https://github.com/augenaUOC/CEMDHRO/"
+     xml:base="https://augenauoc.github.io/CEMDHRO/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="https://github.com/augenaUOC/CEMDHRO/"
-     versionIRI="https://github.com/augenaUOC/CEMDHRO/2.1.0">
+     ontologyIRI="https://augenauoc.github.io/CEMDHRO/"
+     versionIRI="https://augenauoc.github.io/CEMDHRO//2.1.0">
     <Prefix name="" IRI="http://www.semanticweb.org/alfon/ontologies/2026/3/CEMDHRO/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
@@ -431,36 +431,6 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://de.dbpedia.org/resource/Zimmer_Biomet_Holdings"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Abbott_Laboratories"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Biotronik"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Boston_Scientific"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/GE_HealthCare"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Hologic"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/LivaNova"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Nipro"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Siemens_Healthineers"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/Stryker_Corporation"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="https://dbpedia.org/page/BioM%C3%A9rieux"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="/A0101"/>
@@ -935,6 +905,36 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="/open_instance"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Abbott_Laboratories"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Biotronik"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Boston_Scientific"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/GE_HealthCare"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Hologic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/LivaNova"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Nipro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Siemens_Healthineers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/Stryker_Corporation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://dbpedia.org/page/BioM%C3%A9rieux"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty abbreviatedIRI="swrla:isRuleEnabled"/>
@@ -2312,44 +2312,44 @@
         <NamedIndividual IRI="/MAN_010"/>
     </SameIndividual>
     <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Abbott_Laboratories"/>
         <NamedIndividual IRI="/MAN_002"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Abbott_Laboratories"/>
     </SameIndividual>
     <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Biotronik"/>
-        <NamedIndividual IRI="/MAN_008"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Boston_Scientific"/>
-        <NamedIndividual IRI="/MAN_006"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/GE_HealthCare"/>
-        <NamedIndividual IRI="/MAN_009"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Hologic"/>
-        <NamedIndividual IRI="/MAN_014"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/LivaNova"/>
-        <NamedIndividual IRI="/MAN_011"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Nipro"/>
-        <NamedIndividual IRI="/MAN_013"/>
-    </SameIndividual>
-    <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Siemens_Healthineers"/>
         <NamedIndividual IRI="/MAN_003"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Siemens_Healthineers"/>
     </SameIndividual>
     <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/Stryker_Corporation"/>
+        <NamedIndividual IRI="/MAN_006"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Boston_Scientific"/>
+    </SameIndividual>
+    <SameIndividual>
         <NamedIndividual IRI="/MAN_007"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Stryker_Corporation"/>
     </SameIndividual>
     <SameIndividual>
-        <NamedIndividual IRI="https://dbpedia.org/page/BioM%C3%A9rieux"/>
+        <NamedIndividual IRI="/MAN_008"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Biotronik"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="/MAN_009"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/GE_HealthCare"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="/MAN_011"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/LivaNova"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="/MAN_013"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Nipro"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="/MAN_014"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/Hologic"/>
+    </SameIndividual>
+    <SameIndividual>
         <NamedIndividual IRI="/MAN_015"/>
+        <NamedIndividual IRI="https://dbpedia.org/page/BioM%C3%A9rieux"/>
     </SameIndividual>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="/hasManufacturer"/>
@@ -7452,15 +7452,15 @@
                 <Class IRI="/Open"/>
                 <Variable abbreviatedIRI=":s"/>
             </ClassAtom>
+            <ClassAtom>
+                <Class IRI="/CorrectiveAction"/>
+                <Variable abbreviatedIRI=":a"/>
+            </ClassAtom>
             <ObjectPropertyAtom>
                 <ObjectProperty IRI="/hasStatus"/>
                 <Variable abbreviatedIRI=":a"/>
                 <Variable abbreviatedIRI=":s"/>
             </ObjectPropertyAtom>
-            <ClassAtom>
-                <Class IRI="/CorrectiveAction"/>
-                <Variable abbreviatedIRI=":a"/>
-            </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
@@ -7483,15 +7483,15 @@
             <Literal>ClosedRecallRule</Literal>
         </Annotation>
         <Body>
-            <ClassAtom>
-                <Class IRI="/Recall"/>
-                <Variable abbreviatedIRI=":a"/>
-            </ClassAtom>
             <ObjectPropertyAtom>
                 <ObjectProperty IRI="/hasStatus"/>
                 <Variable abbreviatedIRI=":a"/>
                 <NamedIndividual IRI="/Closed_instance"/>
             </ObjectPropertyAtom>
+            <ClassAtom>
+                <Class IRI="/Recall"/>
+                <Variable abbreviatedIRI=":a"/>
+            </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
@@ -7514,15 +7514,15 @@
             <Literal>OpenSafetyAlertRule</Literal>
         </Annotation>
         <Body>
+            <ClassAtom>
+                <Class IRI="/SafetyAlert"/>
+                <Variable abbreviatedIRI=":a"/>
+            </ClassAtom>
             <ObjectPropertyAtom>
                 <ObjectProperty IRI="/hasStatus"/>
                 <Variable abbreviatedIRI=":a"/>
                 <NamedIndividual IRI="/Open_instance"/>
             </ObjectPropertyAtom>
-            <ClassAtom>
-                <Class IRI="/SafetyAlert"/>
-                <Variable abbreviatedIRI=":a"/>
-            </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
