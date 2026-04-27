@@ -1,0 +1,5615 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
+  "header" : {
+    "languages" : [ "undefined" ],
+    "baseIris" : [ "http://www.w3.org/1999/02/22-rdf-syntax-ns", "http://www.w3.org/2000/01/rdf-schema", "http://www.w3.org/2001/XMLSchema", "https://github.com/augenaUOC/CEMDHRO", "https://github.com/augenaUOC/CEMDHRO/" ],
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/"
+  },
+  "namespace" : [ ],
+  "class" : [ {
+    "id" : "3",
+    "type" : "owl:Class"
+  }, {
+    "id" : "5",
+    "type" : "owl:Class"
+  }, {
+    "id" : "7",
+    "type" : "owl:Class"
+  }, {
+    "id" : "8",
+    "type" : "owl:Class"
+  }, {
+    "id" : "9",
+    "type" : "owl:Class"
+  }, {
+    "id" : "14",
+    "type" : "owl:Class"
+  }, {
+    "id" : "19",
+    "type" : "owl:Class"
+  }, {
+    "id" : "20",
+    "type" : "owl:Class"
+  }, {
+    "id" : "21",
+    "type" : "owl:Class"
+  }, {
+    "id" : "2",
+    "type" : "owl:Class"
+  }, {
+    "id" : "28",
+    "type" : "owl:Class"
+  }, {
+    "id" : "56",
+    "type" : "owl:Class"
+  }, {
+    "id" : "40",
+    "type" : "owl:Class"
+  }, {
+    "id" : "1",
+    "type" : "owl:Class"
+  }, {
+    "id" : "53",
+    "type" : "owl:Class"
+  }, {
+    "id" : "58",
+    "type" : "owl:Class"
+  }, {
+    "id" : "42",
+    "type" : "owl:Class"
+  }, {
+    "id" : "6",
+    "type" : "owl:Class"
+  }, {
+    "id" : "72",
+    "type" : "owl:Class"
+  }, {
+    "id" : "75",
+    "type" : "owl:Class"
+  }, {
+    "id" : "65",
+    "type" : "owl:Class"
+  }, {
+    "id" : "35",
+    "type" : "owl:Class"
+  }, {
+    "id" : "76",
+    "type" : "owl:Class"
+  }, {
+    "id" : "83",
+    "type" : "owl:Class"
+  }, {
+    "id" : "11",
+    "type" : "owl:Class"
+  }, {
+    "id" : "18",
+    "type" : "owl:Class"
+  }, {
+    "id" : "103",
+    "type" : "owl:Class"
+  }, {
+    "id" : "104",
+    "type" : "owl:Class"
+  }, {
+    "id" : "107",
+    "type" : "owl:Class"
+  }, {
+    "id" : "108",
+    "type" : "owl:Class"
+  }, {
+    "id" : "110",
+    "type" : "owl:Class"
+  }, {
+    "id" : "60",
+    "type" : "owl:Class"
+  }, {
+    "id" : "113",
+    "type" : "owl:Class"
+  }, {
+    "id" : "15",
+    "type" : "owl:Class"
+  }, {
+    "id" : "84",
+    "type" : "owl:Class"
+  }, {
+    "id" : "119",
+    "type" : "owl:Class"
+  }, {
+    "id" : "44",
+    "type" : "owl:Class"
+  }, {
+    "id" : "128",
+    "type" : "owl:Class"
+  }, {
+    "id" : "38",
+    "type" : "owl:Class"
+  }, {
+    "id" : "133",
+    "type" : "owl:Class"
+  }, {
+    "id" : "98",
+    "type" : "owl:Class"
+  }, {
+    "id" : "17",
+    "type" : "owl:Class"
+  }, {
+    "id" : "136",
+    "type" : "owl:Class"
+  }, {
+    "id" : "137",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "62",
+    "type" : "owl:Class"
+  }, {
+    "id" : "37",
+    "type" : "owl:Class"
+  }, {
+    "id" : "74",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "141",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "142",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "79",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "143",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "51",
+    "type" : "owl:Class"
+  }, {
+    "id" : "33",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "47",
+    "type" : "owl:Class"
+  }, {
+    "id" : "97",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "144",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "118",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "89",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "132",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "125",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "78",
+    "type" : "owl:Class"
+  }, {
+    "id" : "111",
+    "type" : "owl:Class"
+  }, {
+    "id" : "4",
+    "type" : "owl:Class"
+  }, {
+    "id" : "23",
+    "type" : "owl:Class"
+  }, {
+    "id" : "163",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "169",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "172",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "173",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "55",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "25",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "115",
+    "type" : "owl:Class"
+  }, {
+    "id" : "175",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "140",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "165",
+    "type" : "owl:Class"
+  }, {
+    "id" : "166",
+    "type" : "owl:Class"
+  }, {
+    "id" : "12",
+    "type" : "owl:Class"
+  }, {
+    "id" : "100",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "81",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "86",
+    "type" : "owl:Class"
+  }, {
+    "id" : "70",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "147",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "178",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "93",
+    "type" : "owl:Class"
+  }, {
+    "id" : "121",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "95",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "123",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "179",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "49",
+    "type" : "owl:Class"
+  }, {
+    "id" : "109",
+    "type" : "owl:Class"
+  }, {
+    "id" : "185",
+    "type" : "owl:intersectionOf"
+  }, {
+    "id" : "87",
+    "type" : "owl:Class"
+  }, {
+    "id" : "27",
+    "type" : "owl:Class"
+  }, {
+    "id" : "202",
+    "type" : "owl:Class"
+  }, {
+    "id" : "31",
+    "type" : "owl:Class"
+  }, {
+    "id" : "167",
+    "type" : "owl:Class"
+  }, {
+    "id" : "226",
+    "type" : "owl:Class"
+  }, {
+    "id" : "164",
+    "type" : "owl:Class"
+  }, {
+    "id" : "168",
+    "type" : "owl:Class"
+  }, {
+    "id" : "45",
+    "type" : "owl:Class"
+  }, {
+    "id" : "138",
+    "type" : "owl:Class"
+  } ],
+  "classAttribute" : [ {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//InVitroDiagnosticDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "InVitroDiagnosticDevice",
+      "undefined" : "InVitroDiagnosticDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_020",
+        "undefined" : "Harmony Prenatal Test"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_017",
+        "undefined" : "cobas SARS-CoV-2 RT-PCR Test"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_016",
+        "undefined" : "cobas e 801 Immunoassay Analyzer"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_019",
+        "undefined" : "PROGENSA PCA3 Assay"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_018",
+        "undefined" : "VIDAS HIV DUO Ultra"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "3",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassA",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassA",
+      "undefined" : "ClassA"
+    },
+    "attributes" : [ "external" ],
+    "id" : "5",
+    "superClasses" : [ "6" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassB",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassB",
+      "undefined" : "ClassB"
+    },
+    "attributes" : [ "external" ],
+    "id" : "7",
+    "superClasses" : [ "6" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassC",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassC",
+      "undefined" : "ClassC"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassC_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "ClassC_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "8",
+    "superClasses" : [ "6" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassD",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassD",
+      "undefined" : "ClassD"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassD_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "ClassD_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "9",
+    "superClasses" : [ "6" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassI",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassI",
+      "undefined" : "ClassI"
+    },
+    "attributes" : [ "external" ],
+    "id" : "14",
+    "superClasses" : [ "15" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//CybersecurityRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "CybersecurityRisk",
+      "undefined" : "CybersecurityRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_018",
+        "undefined" : "Cybersecurity vulnerability"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "19",
+    "superClasses" : [ "12", "20" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DeviceSafety",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DeviceSafety",
+      "undefined" : "DeviceSafety"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_018",
+        "undefined" : "Cybersecurity vulnerability"
+      }
+    } ],
+    "subClasses" : [ "19" ],
+    "attributes" : [ "external" ],
+    "id" : "20",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//OpenSafetyAlert",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "OpenSafetyAlert",
+      "undefined" : "OpenSafetyAlert"
+    },
+    "comment" : {
+      "undefined" : "Safety alert inferred as open when its status is Open."
+    },
+    "attributes" : [ "external" ],
+    "id" : "21"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Region",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Region",
+      "undefined" : "Region"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//EU_wide",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "EU_wide",
+        "undefined" : "EU-wide"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//France",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "France",
+        "undefined" : "France"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Norway",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Norway",
+        "undefined" : "Norway"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Switzerland",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Switzerland",
+        "undefined" : "Switzerland"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Ireland",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Ireland",
+        "undefined" : "Ireland"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//UK",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "UK",
+        "undefined" : "UK"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Sweden",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Sweden",
+        "undefined" : "Sweden"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Iceland",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Iceland",
+        "undefined" : "Iceland"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Netherlands",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Netherlands",
+        "undefined" : "Netherlands"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//EU-wide",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "EU-wide",
+        "undefined" : "EU-wide"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Spain",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Spain",
+        "undefined" : "Spain"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Germany",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Germany",
+        "undefined" : "Germany"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Belgium",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Belgium",
+        "undefined" : "Belgium"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//United_Kingdom",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "United_Kingdom",
+        "undefined" : "UK"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Italy",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Italy",
+        "undefined" : "Italy"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Denmark",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Denmark",
+        "undefined" : "Denmark"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Poland",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Poland",
+        "undefined" : "Poland"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "2"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Critical",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Critical",
+      "undefined" : "Critical"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//critical_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "critical_instance",
+        "undefined" : "critical_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "28",
+    "superClasses" : [ "11" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ActiveImplant",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ActiveImplant",
+      "undefined" : "ActiveImplant"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_011",
+        "undefined" : "Iluvien Intravitreal Implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_002",
+        "undefined" : "Micra AV Transcatheter Pacing System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_023",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_023",
+        "undefined" : "Tivoli II Cochlear Implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_012",
+        "undefined" : "Viva Cardiac Resynchronization Defibrillator"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_005",
+        "undefined" : "ACUITY X4 Quadripolar LV Lead"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "56",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//High",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "High",
+      "undefined" : "High"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//High_probability_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "High_probability_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "40",
+    "superClasses" : [ "38" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Manufacturer",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Manufacturer",
+      "undefined" : "Manufacturer"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_007",
+        "undefined" : "Stryker Corporation"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_006",
+        "undefined" : "Boston Scientific Corporation"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_009",
+        "undefined" : "GE HealthCare Technologies"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_008",
+        "undefined" : "Biotronik SE & Co. KG"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_014",
+        "undefined" : "Hologic Inc."
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_003",
+        "undefined" : "Siemens Healthineers AG"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_013",
+        "undefined" : "Nipro Corporation"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_002",
+        "undefined" : "Abbott Medical Devices"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_005",
+        "undefined" : "Roche Diagnostics GmbH"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_004",
+        "undefined" : "Philips Medical Systems"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_015",
+        "undefined" : "bioMérieux SA"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_010",
+        "undefined" : "Zimmer Biomet Holdings"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_012",
+        "undefined" : "Drägerwerk AG & Co. KGaA"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_001",
+        "undefined" : "Medtronic plc"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MAN_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_011",
+        "undefined" : "LivaNova PLC"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "Organization responsible for producing medical devices."
+    },
+    "attributes" : [ "external" ],
+    "id" : "1"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Recall",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Recall",
+      "undefined" : "Recall"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_002"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_012"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_010"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_008"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_006"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "53",
+    "superClasses" : [ "17" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIII",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassIII",
+      "undefined" : "ClassIII"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIII_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "ClassIII_instance"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "Highest risk category."
+    },
+    "attributes" : [ "external" ],
+    "id" : "58",
+    "superClasses" : [ "15" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Low",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Low",
+      "undefined" : "Low"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Low_probability_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Low_probability_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "42",
+    "superClasses" : [ "38" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//IVDRRiskClass",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "IVDRRiskClass",
+      "undefined" : "IVDRRiskClass"
+    },
+    "subClasses" : [ "5", "7", "8", "9" ],
+    "attributes" : [ "external" ],
+    "id" : "6",
+    "superClasses" : [ "23" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//PatientSex",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "PatientSex",
+      "undefined" : "PatientSex"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Female",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Female",
+        "undefined" : "Female"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Male",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Male",
+        "undefined" : "Male"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "Sex of the affected patient"
+    },
+    "attributes" : [ "external" ],
+    "id" : "72"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Closed",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Closed",
+      "undefined" : "Closed"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Closed_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Closed_instance",
+        "undefined" : "Closed"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "75",
+    "superClasses" : [ "18" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIIb",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassIIb",
+      "undefined" : "ClassIIb"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIIb_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "ClassIIb_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "65",
+    "superClasses" : [ "15" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIIa",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClassIIa",
+      "undefined" : "ClassIIa"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//ClassIIa_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "ClassIIa_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "35",
+    "superClasses" : [ "15" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//SingleUseDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SingleUseDevice",
+      "undefined" : "SingleUseDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_006",
+        "undefined" : "STELLAREX Drug-Coated Balloon"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "76",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DiagnosticError",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DiagnosticError",
+      "undefined" : "DiagnosticError"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_014",
+        "undefined" : "False positive result"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_016",
+        "undefined" : "Cross-reactivity"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_015",
+        "undefined" : "False negative result"
+      }
+    } ],
+    "subClasses" : [ "84" ],
+    "attributes" : [ "external" ],
+    "id" : "83",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Severity",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Severity",
+      "undefined" : "Severity"
+    },
+    "subClasses" : [ "28", "86", "87" ],
+    "comment" : {
+      "undefined" : "Grade of risk"
+    },
+    "attributes" : [ "external" ],
+    "id" : "11"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Status",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Status",
+      "undefined" : "Status"
+    },
+    "subClasses" : [ "98", "75" ],
+    "comment" : {
+      "undefined" : "Status of the corrective action"
+    },
+    "attributes" : [ "external" ],
+    "id" : "18"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//NearMissIncident",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "NearMissIncident",
+      "undefined" : "NearMissIncident"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-019",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_019"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "103",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//TestUnit",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "TestUnit",
+      "undefined" : "TestUnit"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//TestUnit_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "TestUnit_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "104",
+    "superClasses" : [ "93" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//SeriousIncident",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SeriousIncident",
+      "undefined" : "SeriousIncident"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-002",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_002"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-013",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_013"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-003",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_003"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-014",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_014"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-015",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_015"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-004",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_004"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-005",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_005"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-016",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_016"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-006",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_006"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-017",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_017"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-007",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_007"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-018",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_018"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-008",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_008"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-009",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_009"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-020",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_020"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-010",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_010"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-011",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_011"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-012",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_012"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-001",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_001"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "107",
+    "superClasses" : [ "27" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ProductQuality",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ProductQuality",
+      "undefined" : "ProductQuality"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_017",
+        "undefined" : "Contamination - reagent"
+      }
+    } ],
+    "subClasses" : [ "109" ],
+    "attributes" : [ "external" ],
+    "id" : "108",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//MaterialRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "MaterialRisk",
+      "undefined" : "MaterialRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_019",
+        "undefined" : "Wear debris - joint implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_020",
+        "undefined" : "Corrosion - metallic implant"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "110",
+    "superClasses" : [ "12", "111" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DeviceFailure",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DeviceFailure",
+      "undefined" : "DeviceFailure"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0501",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_009",
+        "undefined" : "Battery depletion - premature"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0502",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_010",
+        "undefined" : "Software malfunction"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_001",
+        "undefined" : "Device failure - electrical"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_002",
+        "undefined" : "Device failure - mechanical"
+      }
+    } ],
+    "subClasses" : [ "44" ],
+    "attributes" : [ "external" ],
+    "id" : "60",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//SoftwareRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SoftwareRisk",
+      "undefined" : "SoftwareRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0502",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_010",
+        "undefined" : "Software malfunction"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "113",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//MDRRiskClass",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "MDRRiskClass",
+      "undefined" : "MDRRiskClass"
+    },
+    "subClasses" : [ "58", "14", "65", "35" ],
+    "attributes" : [ "external" ],
+    "id" : "15",
+    "superClasses" : [ "23" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DiagnosticRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DiagnosticRisk",
+      "undefined" : "DiagnosticRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_014",
+        "undefined" : "False positive result"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_016",
+        "undefined" : "Cross-reactivity"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_015",
+        "undefined" : "False negative result"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "84",
+    "superClasses" : [ "12", "83" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ImplantableActiveDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ImplantableActiveDevice",
+      "undefined" : "ImplantableActiveDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_001",
+        "undefined" : "HeartMate 3 LVAD"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_004",
+        "undefined" : "SYNERGY Stent System"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "119",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//MalfunctionRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "MalfunctionRisk",
+      "undefined" : "MalfunctionRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0302",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_006",
+        "undefined" : "Lead dislodgement"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0501",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_009",
+        "undefined" : "Battery depletion - premature"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_001",
+        "undefined" : "Device failure - electrical"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_002",
+        "undefined" : "Device failure - mechanical"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_005",
+        "undefined" : "Device migration - implant"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "44",
+    "superClasses" : [ "45", "12", "60" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DeviceUnit",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DeviceUnit",
+      "undefined" : "DeviceUnit"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DeviceUnit_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DeviceUnit_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "128",
+    "superClasses" : [ "93" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Probability",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Probability",
+      "undefined" : "Probability"
+    },
+    "subClasses" : [ "37", "40", "42" ],
+    "comment" : {
+      "undefined" : "Probability of having a risk"
+    },
+    "attributes" : [ "external" ],
+    "id" : "38"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//RadiationRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RadiationRisk",
+      "undefined" : "RadiationRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0601",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_011",
+        "undefined" : "Radiation overdose"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "133",
+    "superClasses" : [ "12", "111" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Open",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Open",
+      "undefined" : "Open"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Open_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Open_instance",
+        "undefined" : "Open"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//open_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "open_instance",
+        "undefined" : "open_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "98",
+    "superClasses" : [ "18" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//CorrectiveAction",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "CorrectiveAction",
+      "undefined" : "CorrectiveAction"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_004"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_015"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_014"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_003"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_002"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_013"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_012"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_001"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_011"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_010"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_009"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_008"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_007"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_006"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_005"
+      }
+    } ],
+    "subClasses" : [ "49", "51", "53", "31" ],
+    "comment" : {
+      "undefined" : "Action taken to address a safety issue or incident involving a device."
+    },
+    "attributes" : [ "external" ],
+    "id" : "17",
+    "superClasses" : [ "78" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//IVDR",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "IVDR",
+      "undefined" : "IVDR"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//IVDR_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "IVDR_instance",
+        "undefined" : "IVDR"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "in vitro Diagnostic Medical Devices"
+    },
+    "attributes" : [ "external" ],
+    "id" : "136",
+    "superClasses" : [ "62" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#date",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "137",
+    "label" : {
+      "IRI-based" : "date"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//RegulatoryFramework",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RegulatoryFramework",
+      "undefined" : "RegulatoryFramework"
+    },
+    "subClasses" : [ "136", "138" ],
+    "comment" : {
+      "undefined" : "European regulatory framework governing medical devices."
+    },
+    "attributes" : [ "external" ],
+    "id" : "62"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Medium",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Medium",
+      "undefined" : "Medium"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Medium_probability_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Medium_probability_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "37",
+    "superClasses" : [ "38" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "74",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "141",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#date",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "142",
+    "label" : {
+      "IRI-based" : "date"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "79",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "143",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//InSituCorrection",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "InSituCorrection",
+      "undefined" : "InSituCorrection"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_015"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_003"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_011"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_005"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "51",
+    "superClasses" : [ "17" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "33",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//InterferenceRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "InterferenceRisk",
+      "undefined" : "InterferenceRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0701",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_012",
+        "undefined" : "Metallic artifact - MRI"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0702",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_013",
+        "undefined" : "Electromagnetic interference"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "47",
+    "superClasses" : [ "45", "12" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#date",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "97",
+    "label" : {
+      "IRI-based" : "date"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "144",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "118",
+    "label" : {
+      "IRI-based" : "boolean"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "89",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#date",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "132",
+    "label" : {
+      "IRI-based" : "date"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#integer",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "125",
+    "label" : {
+      "IRI-based" : "integer"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/DescribedEntity",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DescribedEntity",
+      "undefined" : "DescribedEntity"
+    },
+    "subClasses" : [ "17", "27" ],
+    "id" : "78"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//PatientHarm",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "PatientHarm",
+      "undefined" : "PatientHarm"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_007",
+        "undefined" : "Infection - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0402",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_008",
+        "undefined" : "Biofilm formation"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_019",
+        "undefined" : "Wear debris - joint implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_020",
+        "undefined" : "Corrosion - metallic implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0601",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_011",
+        "undefined" : "Radiation overdose"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_003",
+        "undefined" : "Thrombosis - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0202",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_004",
+        "undefined" : "Hemolysis - pump-induced"
+      }
+    } ],
+    "subClasses" : [ "110", "164", "133", "165" ],
+    "attributes" : [ "external" ],
+    "id" : "111",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Device",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Device",
+      "undefined" : "Device"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_011",
+        "undefined" : "Iluvien Intravitreal Implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_010",
+        "undefined" : "TRITON Total Hip System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_013",
+        "undefined" : "ATERA Mechanical Ventilator"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_012",
+        "undefined" : "Viva Cardiac Resynchronization Defibrillator"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_004",
+        "undefined" : "SYNERGY Stent System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_003",
+        "undefined" : "Portico Transcatheter Heart Valve"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_025",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_025",
+        "undefined" : "ValveXpert Transcatheter Mitral Valve"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_006",
+        "undefined" : "STELLAREX Drug-Coated Balloon"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_005",
+        "undefined" : "ACUITY X4 Quadripolar LV Lead"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_008",
+        "undefined" : "MAGNETOM Vida MRI System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_007",
+        "undefined" : "ACUSON Sequoia Ultrasound"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_009",
+        "undefined" : "Persona Knee System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_020",
+        "undefined" : "Harmony Prenatal Test"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_022",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_022",
+        "undefined" : "BeneVision N1 Patient Monitor"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_021",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_021",
+        "undefined" : "OPTIGA Glucose Monitoring System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_024",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_024",
+        "undefined" : "Infusion Pump Plum 360"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_002",
+        "undefined" : "Micra AV Transcatheter Pacing System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_001",
+        "undefined" : "HeartMate 3 LVAD"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_023",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_023",
+        "undefined" : "Tivoli II Cochlear Implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_015",
+        "undefined" : "Hemodialysis Machine 5008S"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_014",
+        "undefined" : "Lumify Portable Ultrasound"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_017",
+        "undefined" : "cobas SARS-CoV-2 RT-PCR Test"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_016",
+        "undefined" : "cobas e 801 Immunoassay Analyzer"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_019",
+        "undefined" : "PROGENSA PCA3 Assay"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_018",
+        "undefined" : "VIDAS HIV DUO Ultra"
+      }
+    } ],
+    "subClasses" : [ "3", "56", "119", "166", "167", "168", "76" ],
+    "comment" : {
+      "undefined" : "Class representing a medical device registered in the European medical device catalogue."
+    },
+    "attributes" : [ "external" ],
+    "id" : "4"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//RiskClass",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "RiskClass",
+      "undefined" : "RiskClass"
+    },
+    "subClasses" : [ "15", "6" ],
+    "comment" : {
+      "undefined" : "Type of risk regulated under MDR or IVDR"
+    },
+    "attributes" : [ "external" ],
+    "id" : "23"
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "163",
+    "label" : {
+      "IRI-based" : "boolean"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "169",
+    "label" : {
+      "IRI-based" : "boolean"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "172",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "173",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "55",
+    "label" : {
+      "IRI-based" : "boolean"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "25",
+    "label" : {
+      "IRI-based" : "boolean"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//IMDRFCode",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "IMDRFCode",
+      "undefined" : "IMDRFCode"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0501",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0501",
+        "undefined" : "A0501"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0402",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0402",
+        "undefined" : "A0402"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0502",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0502",
+        "undefined" : "A0502"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0601",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0601",
+        "undefined" : "A0601"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0301",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0301",
+        "undefined" : "A0301"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0202",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0202",
+        "undefined" : "A0202"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0302",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0302",
+        "undefined" : "A0302"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0401",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0401",
+        "undefined" : "A0401"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0101",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0101",
+        "undefined" : "A0101"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0201",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0201",
+        "undefined" : "A0201"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0102",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0102",
+        "undefined" : "A0102"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//C0101",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "C0101",
+        "undefined" : "C0101"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//C0201",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "C0201",
+        "undefined" : "C0201"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0701",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0701",
+        "undefined" : "A0701"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//A0702",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0702",
+        "undefined" : "A0702"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//B0201",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "B0201",
+        "undefined" : "B0201"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//B0102",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "B0102",
+        "undefined" : "B0102"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//B0301",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "B0301",
+        "undefined" : "B0301"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//B0401",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "B0401",
+        "undefined" : "B0401"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//B0101",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "B0101",
+        "undefined" : "B0101"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "International Medical Device Regulators Forum Code"
+    },
+    "attributes" : [ "external" ],
+    "id" : "115"
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "175",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "140",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//InjuryRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "InjuryRisk",
+      "undefined" : "InjuryRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_003",
+        "undefined" : "Thrombosis - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0202",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_004",
+        "undefined" : "Hemolysis - pump-induced"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "165",
+    "superClasses" : [ "12", "111" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//SelfTestDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SelfTestDevice",
+      "undefined" : "SelfTestDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_021",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_021",
+        "undefined" : "OPTIGA Glucose Monitoring System"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "166",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Risk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Risk",
+      "undefined" : "Risk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_018",
+        "undefined" : "Cybersecurity vulnerability"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_007",
+        "undefined" : "Infection - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_017",
+        "undefined" : "Contamination - reagent"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0302",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_006",
+        "undefined" : "Lead dislodgement"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0501",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_009",
+        "undefined" : "Battery depletion - premature"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_019",
+        "undefined" : "Wear debris - joint implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0402",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_008",
+        "undefined" : "Biofilm formation"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0502",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_010",
+        "undefined" : "Software malfunction"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//C0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_020",
+        "undefined" : "Corrosion - metallic implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_001",
+        "undefined" : "Device failure - electrical"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0701",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_012",
+        "undefined" : "Metallic artifact - MRI"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0601",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_011",
+        "undefined" : "Radiation overdose"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_003",
+        "undefined" : "Thrombosis - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0101",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_014",
+        "undefined" : "False positive result"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_002",
+        "undefined" : "Device failure - mechanical"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0702",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_013",
+        "undefined" : "Electromagnetic interference"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_005",
+        "undefined" : "Device migration - implant"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_016",
+        "undefined" : "Cross-reactivity"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0102",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_015",
+        "undefined" : "False negative result"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0202",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_004",
+        "undefined" : "Hemolysis - pump-induced"
+      }
+    } ],
+    "subClasses" : [ "19", "20", "133", "108", "84", "165", "45", "110", "111", "83", "44", "109", "60", "113", "164", "47" ],
+    "comment" : {
+      "undefined" : "Potential hazard or adverse effect associated with a medical device."
+    },
+    "attributes" : [ "external" ],
+    "id" : "12"
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "100",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "81",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Moderate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Moderate",
+      "undefined" : "Moderate"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Moderate_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Moderate_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "86",
+    "superClasses" : [ "11" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#integer",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "70",
+    "label" : {
+      "IRI-based" : "integer"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "147",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#date",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "178",
+    "label" : {
+      "IRI-based" : "date"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//AffectedUnit",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "AffectedUnit",
+      "undefined" : "AffectedUnit"
+    },
+    "subClasses" : [ "104", "128" ],
+    "comment" : {
+      "undefined" : "Number of affected units"
+    },
+    "attributes" : [ "external" ],
+    "id" : "93"
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "121",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "95",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "123",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "179",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//SafetyAlert",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SafetyAlert",
+      "undefined" : "SafetyAlert"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_004"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_013"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_001"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "49",
+    "superClasses" : [ "17" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ContaminationRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ContaminationRisk",
+      "undefined" : "ContaminationRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//B0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_017",
+        "undefined" : "Contamination - reagent"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "109",
+    "superClasses" : [ "12", "108" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//PendingCorrectiveAction",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "PendingCorrectiveAction",
+      "undefined" : "PendingCorrectiveAction"
+    },
+    "intersection" : [ "17" ],
+    "comment" : {
+      "undefined" : "Comment: Corrective action inferred as pending because its status is open."
+    },
+    "attributes" : [ "external", "intersection" ],
+    "id" : "185"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Serious",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Serious",
+      "undefined" : "Serious"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//Serious_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Serious_instance"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "87",
+    "superClasses" : [ "11" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//Incident",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Incident",
+      "undefined" : "Incident"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-013",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_013"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_002",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-002",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_002"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-003",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_003"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-014",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_014"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_004",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-004",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_004"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-015",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_015"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_016",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-016",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_016"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-005",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_005"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_017",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-017",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_017"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-006",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_006"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-007",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_007"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_018",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-018",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_018"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_019",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-019",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_019"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-008",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_008"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-009",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_009"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_020",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-020",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_020"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-010",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_010"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_011",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-011",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_011"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-012",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_012"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//INC_001",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-001",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_001"
+      }
+    } ],
+    "subClasses" : [ "107", "103" ],
+    "comment" : {
+      "undefined" : "Event related to the use of a medical device that may impact patient safety."
+    },
+    "attributes" : [ "external" ],
+    "id" : "27",
+    "superClasses" : [ "78" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//PriorityDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "PriorityDevice",
+      "undefined" : "PriorityDevice"
+    },
+    "comment" : {
+      "undefined" : "Comment: Device inferred as priority because it is involved in a critical incident."
+    },
+    "attributes" : [ "external" ],
+    "id" : "202"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//UserNotice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "UserNotice",
+      "undefined" : "UserNotice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_014"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_009"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//FSCA_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_007"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "31",
+    "superClasses" : [ "17" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ActiveDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ActiveDevice",
+      "undefined" : "ActiveDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_022",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_022",
+        "undefined" : "BeneVision N1 Patient Monitor"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_024",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_024",
+        "undefined" : "Infusion Pump Plum 360"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_013",
+        "undefined" : "ATERA Mechanical Ventilator"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_015",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_015",
+        "undefined" : "Hemodialysis Machine 5008S"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_014",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_014",
+        "undefined" : "Lumify Portable Ultrasound"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_008",
+        "undefined" : "MAGNETOM Vida MRI System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_007",
+        "undefined" : "ACUSON Sequoia Ultrasound"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "167",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ClosedRecall",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ClosedRecall",
+      "undefined" : "ClosedRecall"
+    },
+    "comment" : {
+      "undefined" : "Recall inferred as closed when its status is Closed."
+    },
+    "attributes" : [ "external" ],
+    "id" : "226"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//InfectionRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "InfectionRisk",
+      "undefined" : "InfectionRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_007",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_007",
+        "undefined" : "Infection - device-related"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_008",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0402",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_008",
+        "undefined" : "Biofilm formation"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "164",
+    "superClasses" : [ "12", "111" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//ImplantableDevice",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "ImplantableDevice",
+      "undefined" : "ImplantableDevice"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_010",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_010",
+        "undefined" : "TRITON Total Hip System"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_025",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_025",
+        "undefined" : "ValveXpert Transcatheter Mitral Valve"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_003",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_003",
+        "undefined" : "Portico Transcatheter Heart Valve"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//DEV_009",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_009",
+        "undefined" : "Persona Knee System"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "168",
+    "superClasses" : [ "4" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//DevicePerformance",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "DevicePerformance",
+      "undefined" : "DevicePerformance"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_006",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0302",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_006",
+        "undefined" : "Lead dislodgement"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_012",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0701",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_012",
+        "undefined" : "Metallic artifact - MRI"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_013",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0702",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_013",
+        "undefined" : "Electromagnetic interference"
+      }
+    }, {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//RSK_005",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://github.com/augenaUOC/CEMDHRO//A0301",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_005",
+        "undefined" : "Device migration - implant"
+      }
+    } ],
+    "subClasses" : [ "44", "47" ],
+    "attributes" : [ "external" ],
+    "id" : "45",
+    "superClasses" : [ "12" ]
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//MDR",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "MDR",
+      "undefined" : "MDR"
+    },
+    "individuals" : [ {
+      "iri" : "https://github.com/augenaUOC/CEMDHRO//MDR_instance",
+      "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MDR_instance",
+        "undefined" : "MDR"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "Medical Device Regulation"
+    },
+    "attributes" : [ "external" ],
+    "id" : "138",
+    "superClasses" : [ "62" ]
+  } ],
+  "property" : [ {
+    "id" : "0",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "10",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "16",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "22",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "24",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "26",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "29",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "30",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "32",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "34",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "36",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "39",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "41",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "43",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "46",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "48",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "50",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "52",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "54",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "57",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "59",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "61",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "63",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "64",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "66",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "68",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "69",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "71",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "73",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "77",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "80",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "82",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "85",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "88",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "90",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "92",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "94",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "96",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "99",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "101",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "102",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "105",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "112",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "114",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "116",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "117",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "120",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "122",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "124",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "126",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "106",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "127",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "129",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "131",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "134",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "135",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "91",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "139",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "145",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "146",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "148",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "149",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "150",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "151",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "152",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "153",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "154",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "155",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "156",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "157",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "158",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "159",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "160",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "161",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "130",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "162",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "67",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "170",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "171",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "174",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "176",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "13",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "177",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "180",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "181",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "182",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "183",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "184",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "186",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "187",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "188",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "189",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "190",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "191",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "192",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "193",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "194",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "195",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "196",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "197",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "198",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "200",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "201",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "203",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "204",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "205",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "206",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "207",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "208",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "209",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "210",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "211",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "212",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "213",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "214",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "215",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "216",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "217",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "218",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "219",
+    "type" : "owl:someValuesFrom"
+  }, {
+    "id" : "220",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "221",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "222",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "223",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "224",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "225",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "227",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "228",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "229",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "230",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "231",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "232",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "233",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "234",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "235",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "236",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "237",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "238",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "239",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "240",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "199",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "241",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "242",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "243",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "244",
+    "type" : "rdfs:SubClassOf"
+  } ],
+  "propertyAttribute" : [ {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//locatedIn",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "2",
+    "label" : {
+      "IRI-based" : "locatedIn",
+      "undefined" : "locatedIn"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Relates a manufacturer to its geographical region"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "0"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isSeverityOf",
+    "inverse" : "13",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "12",
+    "label" : {
+      "IRI-based" : "isSeverityOf",
+      "undefined" : "isSeverityOf"
+    },
+    "domain" : "11",
+    "attributes" : [ "object" ],
+    "id" : "10"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasStatus",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "18",
+    "label" : {
+      "IRI-based" : "hasStatus",
+      "undefined" : "hasStatus"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Relates a corrective action to its current status"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "16"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRiskClass",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "23",
+    "label" : {
+      "IRI-based" : "hasRiskClass",
+      "undefined" : "hasRiskClass"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Relates a device to its regulatory risk class"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "22"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//isActive",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "25",
+    "label" : {
+      "IRI-based" : "isActive",
+      "undefined" : "isActive"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Indicates whether the device is active"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "24"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//reportedBy",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "reportedBy",
+      "undefined" : "reportedBy"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Relates an incident to the manufacturer that reported it"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "26"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isLocationOf",
+    "inverse" : "0",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "isLocationOf",
+      "undefined" : "isLocationOf"
+    },
+    "domain" : "2",
+    "attributes" : [ "object" ],
+    "id" : "29"
+  }, {
+    "range" : "17",
+    "domain" : "31",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "30"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasDeviceId",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "33",
+    "label" : {
+      "IRI-based" : "hasDeviceId",
+      "undefined" : "hasDeviceId"
+    },
+    "domain" : "4",
+    "attributes" : [ "datatype", "external", "functional" ],
+    "id" : "32"
+  }, {
+    "range" : "15",
+    "domain" : "35",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "34"
+  }, {
+    "range" : "38",
+    "domain" : "37",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "36"
+  }, {
+    "range" : "38",
+    "domain" : "40",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "39"
+  }, {
+    "range" : "38",
+    "domain" : "42",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "41"
+  }, {
+    "range" : "45",
+    "domain" : "44",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "43"
+  }, {
+    "range" : "45",
+    "domain" : "47",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "46"
+  }, {
+    "range" : "17",
+    "domain" : "49",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "48"
+  }, {
+    "range" : "17",
+    "domain" : "51",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "50"
+  }, {
+    "range" : "17",
+    "domain" : "53",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "52"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//isIVD",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "55",
+    "label" : {
+      "IRI-based" : "isIVD",
+      "undefined" : "isIVD"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Indicates whether the device is an in vitro diagnostic device"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "54"
+  }, {
+    "range" : "15",
+    "domain" : "58",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "57"
+  }, {
+    "range" : "60",
+    "domain" : "44",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "59"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//regulatedUnder",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "62",
+    "label" : {
+      "IRI-based" : "regulatedUnder",
+      "undefined" : "regulatedUnder"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Relates a device to the applicable regulatory framework"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "61"
+  }, {
+    "range" : "15",
+    "domain" : "14",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "63"
+  }, {
+    "range" : "15",
+    "domain" : "65",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "64"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//affectsDevice",
+    "inverse" : "67",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "affectsDevice",
+      "undefined" : "affectsDevice"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Relates an incident to the affected medical device"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "66"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isRiskClassOf",
+    "inverse" : "22",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "isRiskClassOf",
+      "undefined" : "isRiskClassOf"
+    },
+    "domain" : "23",
+    "attributes" : [ "object" ],
+    "id" : "68"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasPatientAge",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "70",
+    "label" : {
+      "IRI-based" : "hasPatientAge",
+      "undefined" : "hasPatientAge"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Age of the patient involved in the incident"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "69"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//affectsDeviceType",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "affectsDeviceType",
+      "undefined" : "affectsDeviceType"
+    },
+    "domain" : "12",
+    "attributes" : [ "external", "object" ],
+    "id" : "71"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasEudamedIncRef",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "74",
+    "label" : {
+      "IRI-based" : "hasEudamedIncRef",
+      "undefined" : "hasEudamedIncRef"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "EUDAMED reference identifier for the incident"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "73"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasDescription",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "79",
+    "label" : {
+      "IRI-based" : "hasDescription",
+      "undefined" : "hasDescription"
+    },
+    "domain" : "78",
+    "comment" : {
+      "undefined" : "Textual description of an entity"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "77"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasPurpose",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "81",
+    "label" : {
+      "IRI-based" : "hasPurpose",
+      "undefined" : "hasPurpose"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Intended purpose of the medical device"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "80"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRisk",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "12",
+    "label" : {
+      "IRI-based" : "hasRisk",
+      "undefined" : "hasRisk"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Relates a device or incident to an associated risk"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "82"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isAffectedDeviceTypeOf",
+    "inverse" : "71",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "12",
+    "label" : {
+      "IRI-based" : "isAffectedDeviceTypeOf",
+      "undefined" : "isAffectedDeviceTypeOf"
+    },
+    "domain" : "4",
+    "attributes" : [ "object" ],
+    "id" : "85"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasCompetentAuthority",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "89",
+    "label" : {
+      "IRI-based" : "hasCompetentAuthority",
+      "undefined" : "hasCompetentAuthority"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Competent authority responsible for the manufacturer"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "88"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isAffectedRegionOf",
+    "inverse" : "91",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "17",
+    "label" : {
+      "IRI-based" : "isAffectedRegionOf",
+      "undefined" : "isAffectedRegionOf"
+    },
+    "domain" : "2",
+    "attributes" : [ "object" ],
+    "id" : "90"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasAffectedUnit",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "93",
+    "label" : {
+      "IRI-based" : "hasAffectedUnit",
+      "undefined" : "hasAffectedUnit"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Indicates the unit used for the affected quantity"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "92"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasFSCA",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "95",
+    "label" : {
+      "IRI-based" : "hasFSCA",
+      "undefined" : "hasFSCA"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "EUDAMED FSCA reference identifier"
+    },
+    "attributes" : [ "datatype", "external", "functional" ],
+    "id" : "94"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasClosureDate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "97",
+    "label" : {
+      "IRI-based" : "hasClosureDate",
+      "undefined" : "hasClosureDate"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Date when the corrective action was closed"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "96"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRiskId",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "100",
+    "label" : {
+      "IRI-based" : "hasRiskId",
+      "undefined" : "hasRiskId"
+    },
+    "domain" : "12",
+    "attributes" : [ "datatype", "external" ],
+    "id" : "99"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isAffectedUnitOf",
+    "inverse" : "92",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "17",
+    "label" : {
+      "IRI-based" : "isAffectedUnitOf",
+      "undefined" : "isAffectedUnitOf"
+    },
+    "domain" : "93",
+    "attributes" : [ "object" ],
+    "id" : "101"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isStatusOf",
+    "inverse" : "16",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "17",
+    "label" : {
+      "IRI-based" : "isStatusOf",
+      "undefined" : "isStatusOf"
+    },
+    "domain" : "18",
+    "attributes" : [ "object" ],
+    "id" : "102"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isReportLocationOf",
+    "inverse" : "106",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "isReportLocationOf",
+      "undefined" : "isReportLocationOf"
+    },
+    "domain" : "2",
+    "attributes" : [ "object" ],
+    "id" : "105"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//addressesIncident",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "addressesIncident",
+      "undefined" : "addressesIncident"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Relates a corrective action to the incident it addresses"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "112"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isIMDRFCodeOf",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "12",
+    "label" : {
+      "IRI-based" : "isIMDRFCodeOf",
+      "undefined" : "isIMDRFCodeOf"
+    },
+    "domain" : "115",
+    "attributes" : [ "object" ],
+    "id" : "114"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//manufactures",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "manufactures",
+      "undefined" : "manufactures"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Relates a manufacturer to the devices it produces"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "116"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasCorrectiveActionTaken",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "118",
+    "label" : {
+      "IRI-based" : "hasCorrectiveActionTaken",
+      "undefined" : "hasCorrectiveActionTaken"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Indicates whether a corrective action was taken for the incident"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "117"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasManufacturerId",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "121",
+    "label" : {
+      "IRI-based" : "hasManufacturerId",
+      "undefined" : "hasManufacturerId"
+    },
+    "domain" : "1",
+    "attributes" : [ "datatype", "external" ],
+    "id" : "120"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasOutcome",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "123",
+    "label" : {
+      "IRI-based" : "hasOutcome",
+      "undefined" : "hasOutcome"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Textual description of the incident outcome"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "122"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasAffectedQuantity",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "125",
+    "label" : {
+      "IRI-based" : "hasAffectedQuantity",
+      "undefined" : "hasAffectedQuantity"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Number of affected devices or tests"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "124"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/regulatesDevice",
+    "inverse" : "61",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "regulatesDevice",
+      "undefined" : "regulatesDevice"
+    },
+    "domain" : "62",
+    "attributes" : [ "object" ],
+    "id" : "126"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//reportedIn",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "2",
+    "label" : {
+      "IRI-based" : "reportedIn",
+      "undefined" : "reportedIn"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Relates an incident to the region where it was reported"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "106"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isRiskOf",
+    "inverse" : "82",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "isRiskOf",
+      "undefined" : "isRiskOf"
+    },
+    "domain" : "12",
+    "attributes" : [ "object" ],
+    "id" : "127"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isProbabilityOf",
+    "inverse" : "130",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "12",
+    "label" : {
+      "IRI-based" : "isProbabilityOf",
+      "undefined" : "isProbabilityOf"
+    },
+    "domain" : "38",
+    "attributes" : [ "object" ],
+    "id" : "129"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasActionDate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "132",
+    "label" : {
+      "IRI-based" : "hasActionDate",
+      "undefined" : "hasActionDate"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Date when the corrective action was initiated"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "131"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isAddressedBy",
+    "inverse" : "112",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "17",
+    "label" : {
+      "IRI-based" : "isAddressedBy",
+      "undefined" : "isAddressedBy"
+    },
+    "domain" : "27",
+    "attributes" : [ "object" ],
+    "id" : "134"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/hasIMDRFCode",
+    "inverse" : "114",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "115",
+    "label" : {
+      "IRI-based" : "hasIMDRFCode",
+      "undefined" : "hasIMDRFCode"
+    },
+    "domain" : "12",
+    "attributes" : [ "object" ],
+    "id" : "135"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//affectsRegion",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "2",
+    "label" : {
+      "IRI-based" : "affectsRegion",
+      "undefined" : "affectsRegion"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Relates a corrective action to the affected geographical region"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "91"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRiskName",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "140",
+    "label" : {
+      "IRI-based" : "hasRiskName",
+      "undefined" : "hasRiskName"
+    },
+    "domain" : "12",
+    "comment" : {
+      "undefined" : "Name of the identified risk"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "139"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasDeviceName",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "143",
+    "label" : {
+      "IRI-based" : "hasDeviceName",
+      "undefined" : "hasDeviceName"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Name of the medical device"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "145"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRiskDescription",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "147",
+    "label" : {
+      "IRI-based" : "hasRiskDescription",
+      "undefined" : "hasRiskDescription"
+    },
+    "domain" : "12",
+    "comment" : {
+      "undefined" : "Textual description of the risk"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "146"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasDetectionDate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "142",
+    "label" : {
+      "IRI-based" : "hasDetectionDate",
+      "undefined" : "hasDetectionDate"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Date when the incident was detected"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "148"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasAuthorizationNumber",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "144",
+    "label" : {
+      "IRI-based" : "hasAuthorizationNumber",
+      "undefined" : "hasAuthorizationNumber"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Authorization number assigned to a manufacturer"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "149"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasManufacturer",
+    "inverse" : "116",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "hasManufacturer",
+      "undefined" : "hasManufacturer"
+    },
+    "domain" : "76",
+    "comment" : {
+      "undefined" : "Relates a medical device to its manufacturer"
+    },
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "150"
+  }, {
+    "range" : "31",
+    "domain" : "49",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "151"
+  }, {
+    "range" : "31",
+    "domain" : "53",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "152"
+  }, {
+    "range" : "107",
+    "domain" : "103",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "153"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//affectsDevice",
+    "inverse" : "67",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "4",
+    "label" : {
+      "IRI-based" : "affectsDevice",
+      "undefined" : "affectsDevice"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Relates an incident to the affected medical device"
+    },
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "154"
+  }, {
+    "range" : "49",
+    "domain" : "51",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "155"
+  }, {
+    "range" : "49",
+    "domain" : "53",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "156"
+  }, {
+    "range" : "31",
+    "domain" : "51",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "157"
+  }, {
+    "range" : "20",
+    "domain" : "19",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "158"
+  }, {
+    "range" : "78",
+    "domain" : "27",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "159"
+  }, {
+    "range" : "78",
+    "domain" : "17",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "160"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasEmail",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "141",
+    "label" : {
+      "IRI-based" : "hasEmail",
+      "undefined" : "hasEmail"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Contact email of the manufacturer"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "161"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasProbability",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "38",
+    "label" : {
+      "IRI-based" : "hasProbability",
+      "undefined" : "hasProbability"
+    },
+    "domain" : "12",
+    "comment" : {
+      "undefined" : "Relates a risk to its probability level"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "130"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//isReusable",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "163",
+    "label" : {
+      "IRI-based" : "isReusable",
+      "undefined" : "isReusable"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Indicates whether the device is reusable"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "162"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//isAffectedBy",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "isAffectedBy",
+      "undefined" : "isAffectedBy"
+    },
+    "domain" : "4",
+    "attributes" : [ "external", "object" ],
+    "id" : "67"
+  }, {
+    "range" : "62",
+    "domain" : "138",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "170"
+  }, {
+    "range" : "62",
+    "domain" : "136",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "171"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasManufacturer",
+    "inverse" : "116",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "hasManufacturer",
+      "undefined" : "hasManufacturer"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Relates a medical device to its manufacturer"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "174"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasEventDate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "137",
+    "label" : {
+      "IRI-based" : "hasEventDate",
+      "undefined" : "hasEventDate"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Date when the incident occurred"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "176"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasSeverity",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "11",
+    "label" : {
+      "IRI-based" : "hasSeverity",
+      "undefined" : "hasSeverity"
+    },
+    "domain" : "12",
+    "comment" : {
+      "undefined" : "Relates a risk to its severity level"
+    },
+    "attributes" : [ "external", "object" ],
+    "id" : "13"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/reportsIncident",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "reportsIncident",
+      "undefined" : "reportsIncident"
+    },
+    "domain" : "1",
+    "attributes" : [ "object" ],
+    "id" : "177"
+  }, {
+    "range" : "12",
+    "domain" : "133",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "180"
+  }, {
+    "range" : "12",
+    "domain" : "20",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "181"
+  }, {
+    "range" : "12",
+    "domain" : "84",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "182"
+  }, {
+    "range" : "12",
+    "domain" : "108",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "183"
+  }, {
+    "range" : "12",
+    "domain" : "19",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "184"
+  }, {
+    "range" : "23",
+    "domain" : "6",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "186"
+  }, {
+    "range" : "23",
+    "domain" : "15",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "187"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasSRN",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "175",
+    "label" : {
+      "IRI-based" : "hasSRN",
+      "undefined" : "hasSRN"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "EUDAMED Single Registration Number of the manufacturer"
+    },
+    "attributes" : [ "datatype", "external", "functional" ],
+    "id" : "188"
+  }, {
+    "range" : "4",
+    "domain" : "167",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "189"
+  }, {
+    "range" : "4",
+    "domain" : "166",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "190"
+  }, {
+    "range" : "4",
+    "domain" : "76",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "191"
+  }, {
+    "range" : "4",
+    "domain" : "168",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "192"
+  }, {
+    "range" : "4",
+    "domain" : "3",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "193"
+  }, {
+    "range" : "111",
+    "domain" : "165",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "194"
+  }, {
+    "range" : "4",
+    "domain" : "119",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "195"
+  }, {
+    "range" : "4",
+    "domain" : "56",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "196"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasReportDate",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "178",
+    "label" : {
+      "IRI-based" : "hasReportDate",
+      "undefined" : "hasReportDate"
+    },
+    "domain" : "27",
+    "comment" : {
+      "undefined" : "Date when the incident was reported"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "197"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO/isPatientSexOf",
+    "inverse" : "199",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO",
+    "range" : "27",
+    "label" : {
+      "IRI-based" : "isPatientSexOf",
+      "undefined" : "isPatientSexOf"
+    },
+    "domain" : "72",
+    "attributes" : [ "object" ],
+    "id" : "198"
+  }, {
+    "range" : "111",
+    "domain" : "164",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "200"
+  }, {
+    "range" : "111",
+    "domain" : "110",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "201"
+  }, {
+    "range" : "111",
+    "domain" : "133",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "203"
+  }, {
+    "range" : "6",
+    "domain" : "7",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "204"
+  }, {
+    "range" : "6",
+    "domain" : "5",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "205"
+  }, {
+    "range" : "6",
+    "domain" : "9",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "206"
+  }, {
+    "range" : "6",
+    "domain" : "8",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "207"
+  }, {
+    "range" : "27",
+    "domain" : "107",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "208"
+  }, {
+    "range" : "18",
+    "domain" : "75",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "209"
+  }, {
+    "range" : "108",
+    "domain" : "109",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "210"
+  }, {
+    "range" : "27",
+    "domain" : "103",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "211"
+  }, {
+    "range" : "93",
+    "domain" : "104",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "212"
+  }, {
+    "range" : "18",
+    "domain" : "98",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "213"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasUDI",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "172",
+    "label" : {
+      "IRI-based" : "hasUDI",
+      "undefined" : "hasUDI"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Unique Device Identifier assigned to a medical device"
+    },
+    "attributes" : [ "datatype", "external", "functional" ],
+    "id" : "214"
+  }, {
+    "range" : "93",
+    "domain" : "128",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "215"
+  }, {
+    "range" : "87",
+    "domain" : "28",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "216"
+  }, {
+    "range" : "87",
+    "domain" : "86",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "217"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//regulatedUnder",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "62",
+    "label" : {
+      "IRI-based" : "regulatedUnder",
+      "undefined" : "regulatedUnder"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Relates a device to the applicable regulatory framework"
+    },
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "218"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasRiskClass",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "23",
+    "label" : {
+      "IRI-based" : "hasRiskClass",
+      "undefined" : "hasRiskClass"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Relates a device to its regulatory risk class"
+    },
+    "attributes" : [ "external", "someValues", "object" ],
+    "id" : "219"
+  }, {
+    "range" : "42",
+    "domain" : "40",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "220"
+  }, {
+    "range" : "37",
+    "domain" : "40",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "221"
+  }, {
+    "range" : "37",
+    "domain" : "42",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "222"
+  }, {
+    "range" : "53",
+    "domain" : "51",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "223"
+  }, {
+    "range" : "98",
+    "domain" : "75",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "224"
+  }, {
+    "range" : "86",
+    "domain" : "28",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "225"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasManufacturerName",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "179",
+    "label" : {
+      "IRI-based" : "hasManufacturerName",
+      "undefined" : "hasManufacturerName"
+    },
+    "domain" : "1",
+    "comment" : {
+      "undefined" : "Name of the manufacturer"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "227"
+  }, {
+    "range" : "11",
+    "domain" : "28",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "228"
+  }, {
+    "range" : "83",
+    "domain" : "84",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "229"
+  }, {
+    "range" : "11",
+    "domain" : "87",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "230"
+  }, {
+    "range" : "11",
+    "domain" : "86",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "231"
+  }, {
+    "range" : "12",
+    "domain" : "113",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "232"
+  }, {
+    "range" : "12",
+    "domain" : "60",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "233"
+  }, {
+    "range" : "12",
+    "domain" : "47",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "234"
+  }, {
+    "range" : "12",
+    "domain" : "164",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "235"
+  }, {
+    "range" : "12",
+    "domain" : "109",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "236"
+  }, {
+    "range" : "12",
+    "domain" : "44",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "237"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//isImplantable",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "169",
+    "label" : {
+      "IRI-based" : "isImplantable",
+      "undefined" : "isImplantable"
+    },
+    "domain" : "4",
+    "comment" : {
+      "undefined" : "Indicates whether the device is implantable"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "238"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasScope",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "173",
+    "label" : {
+      "IRI-based" : "hasScope",
+      "undefined" : "hasScope"
+    },
+    "domain" : "17",
+    "comment" : {
+      "undefined" : "Scope of the corrective action"
+    },
+    "attributes" : [ "datatype", "external" ],
+    "id" : "239"
+  }, {
+    "range" : "12",
+    "domain" : "83",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "240"
+  }, {
+    "iri" : "https://github.com/augenaUOC/CEMDHRO//hasPatientSex",
+    "baseIri" : "https://github.com/augenaUOC/CEMDHRO/",
+    "range" : "72",
+    "label" : {
+      "IRI-based" : "hasPatientSex",
+      "undefined" : "hasPatientSex"
+    },
+    "domain" : "27",
+    "attributes" : [ "external", "object" ],
+    "id" : "199"
+  }, {
+    "range" : "12",
+    "domain" : "45",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "241"
+  }, {
+    "range" : "12",
+    "domain" : "165",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "242"
+  }, {
+    "range" : "12",
+    "domain" : "111",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "243"
+  }, {
+    "range" : "12",
+    "domain" : "110",
+    "attributes" : [ "anonymous", "object" ],
+    "id" : "244"
+  } ]
+}
