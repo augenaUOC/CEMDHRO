@@ -1,5 +1,5 @@
 <https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
-<https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2002/07/owl#versionIRI> <https://augenauoc.github.io/CEMDHRO//2.1.0> .
+<https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2002/07/owl#versionIRI> <https://augenauoc.github.io/CEMDHRO/> .
 # 
 # 
 # #################################################################

@@ -354,7 +354,7 @@
   "@id" : "https://augenauoc.github.io/CEMDHRO/",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "https://augenauoc.github.io/CEMDHRO//2.1.0"
+    "@id" : "https://augenauoc.github.io/CEMDHRO/"
   } ]
 }, {
   "@id" : "https://augenauoc.github.io/CEMDHRO//A0101",
