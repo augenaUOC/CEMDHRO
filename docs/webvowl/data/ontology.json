@@ -18,6 +18,12 @@
         "language" : "English",
         "value" : "2.10",
         "type" : "label"
+      } ],
+	  "creator": [ {
+    "identifier": "creator",
+    "language": "undefined",
+    "value": "Alfonso",
+    "type": "label"
       } ]
     }
   },
