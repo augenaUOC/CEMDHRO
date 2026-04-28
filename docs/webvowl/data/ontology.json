@@ -27,14 +27,6 @@
     "value": "2.10",
     "type": "label"
   } ],
-
-  "creator": [ {
-    "identifier": "creator",
-    "language": "undefined",
-    "value": "AlfonsoUS",
-    "type": "label"
-  } ]
-    }
   },
   "namespace" : [ ],
   "class" : [ {
