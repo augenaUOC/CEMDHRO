@@ -1,5 +1,8 @@
 <https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2002/07/owl#versionIRI> <https://augenauoc.github.io/CEMDHRO/> .
+<https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2000/01/rdf-schema#comment> "The CEMDHRO ontology has been developed to provide a structured and semantic representation of high-risk medical devices within the European regulatory context. It integrates key elements such as devices, manufacturers, risk classifications, incidents, and corrective actions, enabling consistent data modelling and interoperability. This ontology aims to support analysis, traceability, and decision-making processes in the domain of medical device safety and regulation." .
+<https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2000/01/rdf-schema#label> "CEMDHRO" .
+<https://augenauoc.github.io/CEMDHRO/> <http://www.w3.org/2002/07/owl#versionInfo> "2.10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 # 
 # 
 # #################################################################
