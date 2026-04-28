@@ -112,10 +112,10 @@
     "id" : "21",
     "type" : "owl:Class"
   }, {
-    "id" : "128",
+    "id" : "40",
     "type" : "owl:Class"
   }, {
-    "id" : "40",
+    "id" : "128",
     "type" : "owl:Class"
   }, {
     "id" : "15",
@@ -193,10 +193,10 @@
     "id" : "130",
     "type" : "rdfs:Datatype"
   }, {
-    "id" : "39",
+    "id" : "155",
     "type" : "owl:Class"
   }, {
-    "id" : "155",
+    "id" : "39",
     "type" : "owl:Class"
   }, {
     "id" : "120",
@@ -497,18 +497,18 @@
         "undefined" : "A0202"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//A0502",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "A0502",
-        "undefined" : "A0502"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//A0601",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "A0601",
         "undefined" : "A0601"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//A0502",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "A0502",
+        "undefined" : "A0502"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//A0501",
@@ -641,20 +641,6 @@
         "IRI-based" : "INC_020"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_014",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-014",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_014"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_003",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -667,6 +653,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_003"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_014",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-014",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_014"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_002",
@@ -697,20 +697,6 @@
         "IRI-based" : "INC_013"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_012",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-012",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_012"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_001",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -723,6 +709,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_001"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_012",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-012",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_012"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_011",
@@ -739,20 +739,6 @@
         "IRI-based" : "INC_011"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_018",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-018",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_018"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_007",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -765,6 +751,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_007"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_018",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-018",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_018"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_006",
@@ -795,20 +795,6 @@
         "IRI-based" : "INC_017"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_005",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-005",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_005"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_016",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -821,6 +807,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_016"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_005",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-005",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_005"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_015",
@@ -1007,20 +1007,6 @@
         "IRI-based" : "INC_014"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_013",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-013",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_013"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_002",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -1033,6 +1019,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_002"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_013",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-013",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_013"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_012",
@@ -1077,20 +1077,6 @@
         "IRI-based" : "INC_011"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_007",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-007",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_007"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_018",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -1105,18 +1091,18 @@
         "IRI-based" : "INC_018"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_017",
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_007",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
         "hasIncidentId" : [ {
           "identifier" : "hasIncidentId",
           "language" : "undefined",
-          "value" : "INC-017",
+          "value" : "INC-007",
           "type" : "label"
         } ]
       },
       "labels" : {
-        "IRI-based" : "INC_017"
+        "IRI-based" : "INC_007"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_006",
@@ -1131,6 +1117,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_006"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_017",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-017",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_017"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_005",
@@ -1203,20 +1203,6 @@
         "IRI-based" : "INC_009"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_008",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIncidentId" : [ {
-          "identifier" : "hasIncidentId",
-          "language" : "undefined",
-          "value" : "INC-008",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "INC_008"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//INC_019",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -1229,6 +1215,20 @@
       },
       "labels" : {
         "IRI-based" : "INC_019"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//INC_008",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIncidentId" : [ {
+          "identifier" : "hasIncidentId",
+          "language" : "undefined",
+          "value" : "INC-008",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "INC_008"
       }
     } ],
     "subClasses" : [ "80", "66" ],
@@ -1511,16 +1511,16 @@
         "IRI-based" : "FSCA_012"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//FSCA_013",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "FSCA_013"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//FSCA_002",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "FSCA_002"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//FSCA_013",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "FSCA_013"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//FSCA_010",
@@ -1710,18 +1710,18 @@
         "undefined" : "PROGENSA PCA3 Assay"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_001",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "DEV_001",
-        "undefined" : "HeartMate 3 LVAD"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_023",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "DEV_023",
         "undefined" : "Tivoli II Cochlear Implant"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_001",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_001",
+        "undefined" : "HeartMate 3 LVAD"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_002",
@@ -1890,18 +1890,18 @@
       "undefined" : "Open"
     },
     "individuals" : [ {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//Open_instance",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "Open_instance",
-        "undefined" : "Open"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//open_instance",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "open_instance",
         "undefined" : "open_instance"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//Open_instance",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Open_instance",
+        "undefined" : "Open"
       }
     } ],
     "attributes" : [ "external" ],
@@ -1944,18 +1944,18 @@
         "undefined" : "LivaNova PLC"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_001",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "MAN_001",
-        "undefined" : "Medtronic plc"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_012",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "MAN_012",
         "undefined" : "Drägerwerk AG & Co. KGaA"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_001",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_001",
+        "undefined" : "Medtronic plc"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_002",
@@ -1972,13 +1972,6 @@
         "undefined" : "Nipro Corporation"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_003",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "MAN_003",
-        "undefined" : "Siemens Healthineers AG"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_014",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
@@ -1986,11 +1979,11 @@
         "undefined" : "Hologic Inc."
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_015",
+      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_003",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
-        "IRI-based" : "MAN_015",
-        "undefined" : "bioMérieux SA"
+        "IRI-based" : "MAN_003",
+        "undefined" : "Siemens Healthineers AG"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_004",
@@ -1998,6 +1991,13 @@
       "labels" : {
         "IRI-based" : "MAN_004",
         "undefined" : "Philips Medical Systems"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_015",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "MAN_015",
+        "undefined" : "bioMérieux SA"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//MAN_005",
@@ -2116,33 +2116,6 @@
     "id" : "21",
     "superClasses" : [ "22" ]
   }, {
-    "iri" : "https://augenauoc.github.io/CEMDHRO//SoftwareRisk",
-    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-    "instances" : 0,
-    "label" : {
-      "IRI-based" : "SoftwareRisk",
-      "undefined" : "SoftwareRisk"
-    },
-    "individuals" : [ {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_010",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIMDRFCode" : [ {
-          "identifier" : "hasIMDRFCode",
-          "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//A0502",
-          "type" : "iri"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "RSK_010",
-        "undefined" : "Software malfunction"
-      }
-    } ],
-    "attributes" : [ "external" ],
-    "id" : "128",
-    "superClasses" : [ "2" ]
-  }, {
     "iri" : "https://augenauoc.github.io/CEMDHRO//DeviceFailure",
     "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
     "instances" : 0,
@@ -2214,6 +2187,33 @@
     "subClasses" : [ "39" ],
     "attributes" : [ "external" ],
     "id" : "40",
+    "superClasses" : [ "2" ]
+  }, {
+    "iri" : "https://augenauoc.github.io/CEMDHRO//SoftwareRisk",
+    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SoftwareRisk",
+      "undefined" : "SoftwareRisk"
+    },
+    "individuals" : [ {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_010",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://augenauoc.github.io/CEMDHRO//A0502",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_010",
+        "undefined" : "Software malfunction"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "128",
     "superClasses" : [ "2" ]
   }, {
     "iri" : "https://augenauoc.github.io/CEMDHRO//DeviceUnit",
@@ -2289,18 +2289,18 @@
         "undefined" : "Italy"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//Germany",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "Germany",
-        "undefined" : "Germany"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//United_Kingdom",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "United_Kingdom",
         "undefined" : "UK"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//Germany",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Germany",
+        "undefined" : "Germany"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//France",
@@ -2317,18 +2317,18 @@
         "undefined" : "Norway"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//EU_wide",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "EU_wide",
-        "undefined" : "EU-wide"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//Sweden",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "Sweden",
         "undefined" : "Sweden"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//EU_wide",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "EU_wide",
+        "undefined" : "EU-wide"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//Ireland",
@@ -2345,18 +2345,18 @@
         "undefined" : "Belgium"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//Poland",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "Poland",
-        "undefined" : "Poland"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//Denmark",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "Denmark",
         "undefined" : "Denmark"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//Poland",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Poland",
+        "undefined" : "Poland"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//Netherlands",
@@ -2653,6 +2653,34 @@
       "IRI-based" : "integer"
     }
   }, {
+    "iri" : "https://augenauoc.github.io/CEMDHRO//PatientSex",
+    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "PatientSex",
+      "undefined" : "PatientSex"
+    },
+    "individuals" : [ {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//Male",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Male",
+        "undefined" : "Male"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//Female",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "Female",
+        "undefined" : "Female"
+      }
+    } ],
+    "comment" : {
+      "undefined" : "Sex of the affected patient"
+    },
+    "attributes" : [ "external" ],
+    "id" : "155"
+  }, {
     "iri" : "https://augenauoc.github.io/CEMDHRO//MalfunctionRisk",
     "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
     "instances" : 0,
@@ -2740,34 +2768,6 @@
     "id" : "39",
     "superClasses" : [ "48", "2", "40" ]
   }, {
-    "iri" : "https://augenauoc.github.io/CEMDHRO//PatientSex",
-    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-    "instances" : 0,
-    "label" : {
-      "IRI-based" : "PatientSex",
-      "undefined" : "PatientSex"
-    },
-    "individuals" : [ {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//Male",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "Male",
-        "undefined" : "Male"
-      }
-    }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//Female",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "Female",
-        "undefined" : "Female"
-      }
-    } ],
-    "comment" : {
-      "undefined" : "Sex of the affected patient"
-    },
-    "attributes" : [ "external" ],
-    "id" : "155"
-  }, {
     "iri" : "https://augenauoc.github.io/CEMDHRO//ActiveImplant",
     "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
     "instances" : 0,
@@ -2783,18 +2783,18 @@
         "undefined" : "ACUITY X4 Quadripolar LV Lead"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_023",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "DEV_023",
-        "undefined" : "Tivoli II Cochlear Implant"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_012",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "DEV_012",
         "undefined" : "Viva Cardiac Resynchronization Defibrillator"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_023",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_023",
+        "undefined" : "Tivoli II Cochlear Implant"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_002",
@@ -3266,18 +3266,18 @@
         "undefined" : "Persona Knee System"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_003",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "DEV_003",
-        "undefined" : "Portico Transcatheter Heart Valve"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_025",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "DEV_025",
         "undefined" : "ValveXpert Transcatheter Mitral Valve"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_003",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_003",
+        "undefined" : "Portico Transcatheter Heart Valve"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_010",
@@ -3359,21 +3359,6 @@
         "undefined" : "Hemolysis - pump-induced"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_016",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIMDRFCode" : [ {
-          "identifier" : "hasIMDRFCode",
-          "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//B0201",
-          "type" : "iri"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "RSK_016",
-        "undefined" : "Cross-reactivity"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_005",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -3387,6 +3372,21 @@
       "labels" : {
         "IRI-based" : "RSK_005",
         "undefined" : "Device migration - implant"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_016",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://augenauoc.github.io/CEMDHRO//B0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_016",
+        "undefined" : "Cross-reactivity"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_006",
@@ -3419,21 +3419,6 @@
         "undefined" : "Contamination - reagent"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_018",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIMDRFCode" : [ {
-          "identifier" : "hasIMDRFCode",
-          "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//B0401",
-          "type" : "iri"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "RSK_018",
-        "undefined" : "Cybersecurity vulnerability"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_007",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -3447,6 +3432,21 @@
       "labels" : {
         "IRI-based" : "RSK_007",
         "undefined" : "Infection - device-related"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_018",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://augenauoc.github.io/CEMDHRO//B0401",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_018",
+        "undefined" : "Cybersecurity vulnerability"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_011",
@@ -3464,21 +3464,6 @@
         "undefined" : "Radiation overdose"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_001",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "annotations" : {
-        "hasIMDRFCode" : [ {
-          "identifier" : "hasIMDRFCode",
-          "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//A0101",
-          "type" : "iri"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "RSK_001",
-        "undefined" : "Device failure - electrical"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_012",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
@@ -3494,19 +3479,19 @@
         "undefined" : "Metallic artifact - MRI"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_013",
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_001",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
         "hasIMDRFCode" : [ {
           "identifier" : "hasIMDRFCode",
           "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//A0702",
+          "value" : "https://augenauoc.github.io/CEMDHRO//A0101",
           "type" : "iri"
         } ]
       },
       "labels" : {
-        "IRI-based" : "RSK_013",
-        "undefined" : "Electromagnetic interference"
+        "IRI-based" : "RSK_001",
+        "undefined" : "Device failure - electrical"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_002",
@@ -3524,19 +3509,19 @@
         "undefined" : "Device failure - mechanical"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_003",
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_013",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "annotations" : {
         "hasIMDRFCode" : [ {
           "identifier" : "hasIMDRFCode",
           "language" : "undefined",
-          "value" : "https://augenauoc.github.io/CEMDHRO//A0201",
+          "value" : "https://augenauoc.github.io/CEMDHRO//A0702",
           "type" : "iri"
         } ]
       },
       "labels" : {
-        "IRI-based" : "RSK_003",
-        "undefined" : "Thrombosis - device-related"
+        "IRI-based" : "RSK_013",
+        "undefined" : "Electromagnetic interference"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_014",
@@ -3552,6 +3537,21 @@
       "labels" : {
         "IRI-based" : "RSK_014",
         "undefined" : "False positive result"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_003",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "annotations" : {
+        "hasIMDRFCode" : [ {
+          "identifier" : "hasIMDRFCode",
+          "language" : "undefined",
+          "value" : "https://augenauoc.github.io/CEMDHRO//A0201",
+          "type" : "iri"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "RSK_003",
+        "undefined" : "Thrombosis - device-related"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//RSK_019",
@@ -3862,18 +3862,18 @@
         "undefined" : "MAGNETOM Vida MRI System"
       }
     }, {
-      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_013",
-      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-      "labels" : {
-        "IRI-based" : "DEV_013",
-        "undefined" : "ATERA Mechanical Ventilator"
-      }
-    }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_024",
       "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
       "labels" : {
         "IRI-based" : "DEV_024",
         "undefined" : "Infusion Pump Plum 360"
+      }
+    }, {
+      "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_013",
+      "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+      "labels" : {
+        "IRI-based" : "DEV_013",
+        "undefined" : "ATERA Mechanical Ventilator"
       }
     }, {
       "iri" : "https://augenauoc.github.io/CEMDHRO//DEV_014",
@@ -5454,20 +5454,6 @@
     "attributes" : [ "object", "anonymous" ],
     "id" : "218"
   }, {
-    "iri" : "https://augenauoc.github.io/CEMDHRO//hasRiskClass",
-    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
-    "range" : "78",
-    "label" : {
-      "IRI-based" : "hasRiskClass",
-      "undefined" : "hasRiskClass"
-    },
-    "domain" : "25",
-    "comment" : {
-      "undefined" : "Relates a device to its regulatory risk class"
-    },
-    "attributes" : [ "object", "external", "someValues" ],
-    "id" : "219"
-  }, {
     "iri" : "https://augenauoc.github.io/CEMDHRO//regulatedUnder",
     "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
     "range" : "7",
@@ -5478,6 +5464,20 @@
     "domain" : "25",
     "comment" : {
       "undefined" : "Relates a device to the applicable regulatory framework"
+    },
+    "attributes" : [ "object", "external", "someValues" ],
+    "id" : "219"
+  }, {
+    "iri" : "https://augenauoc.github.io/CEMDHRO//hasRiskClass",
+    "baseIri" : "https://augenauoc.github.io/CEMDHRO/",
+    "range" : "78",
+    "label" : {
+      "IRI-based" : "hasRiskClass",
+      "undefined" : "hasRiskClass"
+    },
+    "domain" : "25",
+    "comment" : {
+      "undefined" : "Relates a device to its regulatory risk class"
     },
     "attributes" : [ "object", "external", "someValues" ],
     "id" : "220"
