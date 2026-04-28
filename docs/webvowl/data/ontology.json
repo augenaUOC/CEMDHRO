@@ -1,6 +1,10 @@
 {
   "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
   "header" : {
+  "title": [CEMDHRO],	  
+  "description": {
+  "undefined": "The CEMDHRO ontology has been developed to provide a structured and semantic representation of high-risk medical devices within the European regulatory context. It integrates key elements such as devices, manufacturers, risk classifications, incidents, and corrective actions, enabling consistent data modelling and interoperability. This ontology aims to support analysis, traceability, and decision-making processes in the domain of medical device safety and regulation."
+   },
     "languages" : [ "English" ],
     "baseIris" : [ "http://www.w3.org/1999/02/22-rdf-syntax-ns", "http://www.w3.org/2000/01/rdf-schema", "https://augenauoc.github.io/CEMDHRO/", "http://www.w3.org/2001/XMLSchema", "https://augenauoc.github.io/CEMDHRO" ],
     "iri" : "https://augenauoc.github.io/CEMDHRO/",
@@ -11,7 +15,6 @@
     "comments" : {
       "undefined" : "The CEMDHRO ontology has been developed to provide a structured and semantic representation of high-risk medical devices within the European regulatory context. It integrates key elements such as devices, manufacturers, risk classifications, incidents, and corrective actions, enabling consistent data modelling and interoperability. This ontology aims to support analysis, traceability, and decision-making processes in the domain of medical device safety and regulation."
     },
-	"author": ["AlfonsoUS"],
   "other": {
   "versionInfo": [ {
     "identifier": "versionInfo",
@@ -23,14 +26,7 @@
   "creator": [ {
     "identifier": "creator",
     "language": "undefined",
-    "value": "Alfonso",
-    "type": "label"
-  } ],
-
-  "description": [ {
-    "identifier": "description",
-    "language": "English",
-    "value": "The CEMDHRO ontology has been developed to provide a structured and semantic representation of high-risk medical devices within the European regulatory context.",
+    "value": "AlfonsoUS",
     "type": "label"
   } ]
     }
